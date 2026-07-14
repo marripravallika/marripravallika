@@ -250,14 +250,6 @@ Designed and developed data-driven analytical solutions focused on business inte
 
 </p>
 
-## Oracle
-
-<p>
-
-<img src="https://img.shields.io/badge/Oracle-Learning-F80000?style=for-the-badge&logo=oracle"/>
-
-</p>
-
 ## NPTEL
 
 <p>
@@ -266,13 +258,6 @@ Designed and developed data-driven analytical solutions focused on business inte
 
 </p>
 
-## Cisco
-
-<p>
-
-<img src="https://img.shields.io/badge/Cisco-Learning-049FD9?style=for-the-badge&logo=cisco"/>
-
-</p>
 
 ## HackerRank
 
@@ -345,41 +330,6 @@ Designed and developed data-driven analytical solutions focused on business inte
 
 ---
 
-# Current Focus
-
-```yaml
-Learning:
-  - Advanced Data Structures
-  - System Design
-  - Cloud Computing (AWS)
-  - Machine Learning
-  - Backend Engineering
-
-Building:
-  - Enterprise Data Analytics Projects
-  - Full Stack Applications
-  - AI-powered Software Solutions
-  - Open Source Contributions
-
-Exploring:
-  - Generative AI
-  - Large Language Models
-  - DevOps
-  - Docker
-  - Kubernetes
-  - Microservices
-
-Open To:
-  - Software Engineering Internships
-  - Data Analyst Roles
-  - AI/ML Opportunities
-  - Full Stack Development
-  - Backend Development
-  - Open Source Collaboration
-```
-
----
-
 # Connect
 
 <div align="center">
@@ -421,17 +371,3 @@ Open To:
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:4F46E5,25:6D28D9,50:7C3AED,75:8B5CF6,100:A855F7"/>
 
 ```
-<!--
-**marripravallika/marripravallika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
