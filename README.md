@@ -58,26 +58,12 @@ I enjoy transforming raw data into meaningful insights, designing efficient syst
 
 With hands-on experience in SQL, Python, Power BI, MySQL, and software development fundamentals, I continuously explore modern technologies that improve product quality, performance, and user experience.
 
-### Professional Interests
-
-- Software Engineering
-- Artificial Intelligence
-- Machine Learning Fundamentals
-- Data Analytics
-- Backend Development
-- Full Stack Development
-- Database Engineering
-- Cloud Computing
-- Business Intelligence
-- Product Engineering
 
 ### Open To
 
 - Data Analyst Roles & internships
 - AI/ML Internships
 - Backend Development
-- Full Stack Development
-- Open Source Contributions
 - Research Collaborations
 
 ---
@@ -133,7 +119,6 @@ With hands-on experience in SQL, Python, Power BI, MySQL, and software developme
 | Database Design | █████████░ | MySQL, relational modeling |
 | AI Tools | ████████░░ | Generative AI workflows |
 | Problem Solving | ██████████ | Algorithmic thinking |
-| Software Development | █████████░ | SDLC, OOP, version control |
 
 ---
 
@@ -364,7 +349,7 @@ Designed and developed data-driven analytical solutions focused on business inte
 
 <div align="center">
 
-### *"Engineering impactful software through continuous learning, analytical thinking, and innovation."*
+### *Thank you.*
 
 </div>
 
