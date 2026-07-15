@@ -1,358 +1,509 @@
+<!-- HEADER BANNER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F46E5,25:6D28D9,50:7C3AED,75:8B5CF6,100:A855F7&text=Marri%20Pravallika&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,8,16,24,30&height=260&section=header&text=Marri%20Pravallika&fontSize=68&fontColor=ffffff&fontAlignY=48&desc=Software%20Engineering%20%7C%20Data%20Analytics%20%7C%20AI&descSize=20&descAlignY=68&animation=fadeIn&stroke=8b5cf6&strokeWidth=2"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Software+Engineer;AI+%26+Data+Analytics+Enthusiast;Full+Stack+Developer;SQL+%7C+Python+%7C+Power+BI;Building+Scalable+Technology+Solutions"/>
+</div>
 
-<p align="center">
 
-<img src="https://img.shields.io/badge/B.Tech-Computer%20Science-6D28D9?style=for-the-badge"/>
+<!-- ANIMATED TYPING -->
 
-<img src="https://img.shields.io/badge/CGPA-8.0%2F10-7C3AED?style=for-the-badge"/>
+<div align="center">
 
-<img src="https://img.shields.io/badge/Parul-University-4F46E5?style=for-the-badge"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=2500&pause=600&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=100&lines=%E2%9A%A1+B.Tech+CSE+Student+%7C+Parul+University;%F0%9F%93%8A+Building+Data-Driven+Software+Solutions;%F0%9F%90%8D+SQL+%7C+Python+%7C+Power+BI+%7C+MySQL;%F0%9F%A4%96+Exploring+AI%2C+Analytics+%26+Product+Engineering"/>
 
-<img src="https://img.shields.io/badge/India-Hyderabad-8B5CF6?style=for-the-badge"/>
+</div>
 
-</p>
 
-<p align="center">
+<br/>
 
-<a href="https://github.com/marripravallika">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
+
+<!-- SOCIAL BADGES -->
+
+<div align="center">
 
 <a href="https://www.linkedin.com/in/marripravallika">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:pravalikamarri1711@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-6D28D9?style=for-the-badge"/>
+<a href="https://github.com/marripravallika">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</p>
+<img src="https://komarev.com/ghpvc/?username=marripravallika&style=for-the-badge&color=8b5cf6&label=PROFILE+VIEWS"/>
 
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=marripravallika&style=for-the-badge&color=7C3AED"/>
-
-<img src="https://img.shields.io/github/followers/marripravallika?style=for-the-badge&color=6D28D9"/>
-
-<img src="https://img.shields.io/github/stars/marripravallika?affiliations=OWNER&style=for-the-badge&color=7C3AED"/>
-
-</p>
+<img src="https://img.shields.io/github/followers/marripravallika?style=for-the-badge&color=8b5cf6&logo=github&label=FOLLOWERS"/>
 
 </div>
 
----
-
-# About Me
-
-I'm a Computer Science undergraduate passionate about building reliable, scalable, and data-driven software solutions. My interests span data analytics, artificial intelligence, frontend development.
-
-I enjoy transforming raw data into meaningful insights, designing efficient systems, and solving real-world engineering challenges through clean architecture and analytical thinking.
-
-With hands-on experience in SQL, Python, Power BI, MySQL, and software development fundamentals, I continuously explore modern technologies that improve product quality, performance, and user experience.
-
-
-### Open To
-
-- Data Analyst Roles & internships
-- AI/ML Internships
-- Backend Development
-- Research Collaborations
 
 ---
 
-# Tech Stack
-
-## Languages
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,html,css,mysql"/>
-
-</p>
-
-## Frontend
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css"/>
-
-</p>
-
-## Backend & Databases
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,mysql"/>
-
-</p>
-
-## Cloud • DevOps • Tooling
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
-
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoft-excel"/>
-
-</p>
-
----
-
-# AI / ML Expertise
-
-| Domain | Proficiency | Details |
-|---------|------------|----------|
-| Data Analytics | █████████░ | SQL-based analysis, dashboards, reporting |
-| Business Intelligence | █████████░ | Power BI, KPI visualization |
-| Data Cleaning | ██████████ | Python, Pandas, Excel |
-| Data Visualization | █████████░ | Power BI dashboards |
-| Database Design | █████████░ | MySQL, relational modeling |
-| AI Tools | ████████░░ | Generative AI workflows |
-| Problem Solving | ██████████ | Algorithmic thinking |
-
----
-
-# Featured Projects
-
-<details>
-<summary><b>Applicant Hiring Analysis System</b></summary>
-
-### Overview
-
-A SQL-driven recruitment analytics platform designed to analyze applicant information, hiring trends, interview outcomes, and recruitment efficiency using relational database techniques.
-
-| Category | Details |
-|----------|---------|
-| Stack | SQL • MySQL |
-| Scale | Relational Database |
-| Performance | Optimized SQL Queries |
-| Security | Structured Database Design |
-| Impact | Recruitment Decision Support |
-| Repository | https://github.com/marripravallika/Applicant-Hiring-Analysis-SQL |
-
-### Highlights
-
-- Advanced SQL querying
-- Aggregate reporting
-- JOIN optimization
-- Hiring trend analysis
-- Candidate performance insights
-- Business reporting
-
-</details>
-
-<details>
-<summary><b>Sales Performance Dashboard</b></summary>
-
-### Overview
-
-Interactive business intelligence dashboard providing insights into revenue, regional sales, profit trends, and product performance using Power BI, SQL, and Excel.
-
-| Category | Details |
-|----------|---------|
-| Stack | Power BI • SQL • Excel |
-| Scale | Business Analytics |
-| Performance | Interactive Dashboard |
-| Security | Clean Structured Dataset |
-| Impact | Executive Decision Support |
-| Repository | https://github.com/marripravallika/Sales-Performance-Dashboard |
-
-### Highlights
-
-- KPI dashboards
-- Profit analysis
-- Regional analytics
-- Revenue monitoring
-- Interactive filtering
-- Executive reporting
-
-</details>
-
----
-# Experience
-
-## Software Engineering Projects
-
-### Data Analytics Developer
-**Personal Portfolio Projects**
-
-**Jan 2026 – Present**
-
-Designed and developed data-driven analytical solutions focused on business intelligence, SQL optimization, reporting automation, and interactive dashboard development. Built projects that demonstrate software engineering practices including structured database design, version control, modular development, and documentation.
-
-#### Responsibilities
-
-- Designed relational database schemas
-- Developed optimized SQL queries
-- Created interactive Power BI dashboards
-- Performed data cleaning using Python
-- Built business reporting solutions
-- Applied SDLC principles
-- Maintained GitHub repositories
-- Documented project architecture
-- Performed exploratory data analysis
-- Generated actionable business insights
-
-**Core Skills**
-
-`SQL` `Python` `MySQL` `Power BI` `Excel` `Git` `GitHub` `Database Design` `Analytics`
-
----
-
-# Achievements
+<!-- DIVIDER -->
 
 <div align="center">
 
-| Recognition | Details |
-|-------------|---------|
-| SQL Development | Built multiple SQL analytics projects demonstrating advanced querying and reporting |
-| Business Intelligence | Developed interactive Power BI dashboards for business insights |
-| Database Engineering | Designed structured relational databases with optimized SQL queries |
-| Data Analytics | Transformed raw datasets into meaningful business intelligence reports |
-| Software Engineering | Built end-to-end portfolio projects using industry-standard development practices |
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 </div>
 
+
+<!-- ABOUT -->
+
+<img align="right" width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=marripravallika&theme=tokyonight"/>
+
+
+### 🧑‍💻 `whoami`
+
+```bash
+$ cat pravallika_profile.yaml
+name        : Marri Pravallika
+
+education   :
+  degree    : B.Tech Computer Science Engineering
+  university: Parul University, Gujarat
+  duration  : 2024 - 2028
+  cgpa      : 8.0/10
+
+location    : Hyderabad, India 🇮🇳
+
+
+focus       :
+  - Software Engineering
+  - Data Analytics
+  - Database Systems
+  - AI & Emerging Technologies
+
+
+technical_skills:
+  languages :
+    - Python
+    - SQL
+    - HTML
+
+  database  :
+    - MySQL
+
+  analytics :
+    - Power BI
+    - MS Excel
+
+
+projects :
+  - Applicant Hiring Analysis System
+  - Sales Performance Dashboard
+
+
+certifications:
+  - Tata GenAI Powered Data Analytics Simulation
+  - HackerRank SQL For Data Analysis
+
+
+current_status:
+  - Learning scalable software development
+  - Building analytics-driven applications
+  - Open for internships
+
+
+quote:
+  "Turning data into insights and ideas into solutions."
 ---
 
-# Certifications
+<!-- DIVIDER -->
 
-## AWS
+<div align="center">
 
-<p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<img src="https://img.shields.io/badge/AWS-Learning-FF9900?style=for-the-badge&logo=amazonaws"/>
-
-</p>
-
-## NPTEL
-
-<p>
-
-<img src="https://img.shields.io/badge/NPTEL-Course-00599C?style=for-the-badge"/>
-
-</p>
+</div>
 
 
-## HackerRank
+# 🚀 Featured Projects
 
-<p>
 
-<a href="https://www.hackerrank.com/certificates/7800f91a34cb">
+<div align="center">
 
-<img src="https://img.shields.io/badge/HackerRank-SQL%20Certificate-2EC866?style=for-the-badge&logo=hackerrank"/>
+
+<details>
+
+<summary><b>📊 Applicant Hiring Analysis System | SQL + MySQL</b></summary>
+
+
+<br>
+
+
+A database-driven recruitment analytics project designed to analyze applicant data, identify hiring trends, and generate meaningful insights using SQL.
+
+
+| Category | Details |
+|:---|:---|
+| Technology Stack | SQL • MySQL |
+| Database | Relational Database Design |
+| Analysis | Hiring Trends • Candidate Insights |
+| Query Concepts | Joins • Aggregate Functions • Filtering |
+| Performance | Optimized SQL Reporting Queries |
+| Impact | Improved recruitment decision-making |
+| Repository | https://github.com/marripravallika/Applicant-Hiring-Analysis-SQL |
+
+
+### Key Contributions
+
+- Designed structured database tables for applicant information.
+- Developed SQL queries for recruitment analysis.
+- Applied joins and aggregate functions to generate reports.
+- Identified candidate selection patterns.
+- Created analytical outputs for business decisions.
+- Improved data organization through structured reporting.
+
+
+<br>
+
+
+<a href="https://github.com/marripravallika/Applicant-Hiring-Analysis-SQL">
+
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
 </a>
 
-</p>
 
-## Tata
+</details>
 
-<p>
+
+
+<br>
+
+
+
+<details>
+
+<summary><b>📈 Sales Performance Dashboard | Power BI + SQL + Excel</b></summary>
+
+
+<br>
+
+
+Interactive business intelligence dashboard developed to monitor sales performance, revenue trends, profitability, and regional analysis.
+
+
+| Category | Details |
+|:---|:---|
+| Technology Stack | Power BI • SQL • Excel |
+| Dashboard Type | Business Intelligence Analytics |
+| Data Processing | Cleaning • Transformation • Reporting |
+| Visualization | Revenue • Profit • Regional Performance |
+| Performance | Interactive KPI Dashboard |
+| Impact | Supported strategic business decisions |
+| Repository | https://github.com/marripravallika/Sales-Performance-Dashboard |
+
+
+### Key Contributions
+
+- Built interactive dashboards using Power BI.
+- Integrated SQL and Excel datasets.
+- Performed sales trend analysis.
+- Created revenue and profit visualizations.
+- Developed reports for product and regional performance.
+- Generated actionable business insights.
+
+
+<br>
+
+
+<a href="https://github.com/marripravallika/Sales-Performance-Dashboard">
+
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+
+</details>
+
+
+</div>
+
+
+---
+
+<!-- EXPERIENCE -->
+
+
+# 💼 Experience & Professional Development
+
+
+<div align="center">
+
+
+| Role | Organization | Duration |
+|:---|:---|:---|
+| Data Analytics Job Simulation Participant | Tata iQ | Jan 2026 – Feb 2026 |
+| Computer Science Undergraduate | Parul University | 2024 – Present |
+
+
+</div>
+
+
+### 📌 Tata GenAI Powered Data Analytics Job Simulation
+
+**Tata iQ | Financial Services Analytics**
+
+- Completed a practical data analytics simulation focused on AI-powered business solutions.
+- Worked on analytical thinking and strategy development.
+- Applied data-driven approaches to solve business problems.
+- Developed understanding of AI-assisted analytics workflows.
+
+
+### 📌 Academic Development
+
+**Bachelor of Technology — Computer Science Engineering**
+
+- Studying core computer science concepts.
+- Developing skills in programming, databases, analytics, and software development.
+- Building technology projects focused on real-world applications.
+
+
+---
+
+<!-- ACHIEVEMENTS -->
+
+
+# 🏆 Achievements
+
+
+<div align="center">
+
+
+| Recognition | Details |
+|:---|:---|
+| SQL Analytics Projects | Developed database-driven solutions using SQL and MySQL |
+| Business Intelligence | Created Power BI dashboards for performance analysis |
+| Data Analysis | Converted raw datasets into meaningful business insights |
+| Technical Growth | Continuously improving software engineering and analytical skills |
+| Problem Solving | Applied programming concepts to build practical solutions |
+
+
+</div>
+
+
+---
+
+<!-- CERTIFICATIONS -->
+
+
+# 📜 Certifications
+
+
+<div align="center">
+
+
+<table>
+
+<tr>
+
+
+<td align="center">
 
 <img src="https://img.shields.io/badge/Tata-GenAI%20Powered%20Data%20Analytics-2563EB?style=for-the-badge"/>
 
-</p>
+<br><br>
 
----
+<b>GenAI Powered Data Analytics Job Simulation</b>
+
+<br>
+
+<sub>Tata iQ | 2026</sub>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/✔%20Completed-8b5cf6?style=flat-square"/>
+
+</td>
 
 
-# GitHub Analytics
 
-<div align="center">
+<td align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=marripravallika&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img src="https://img.shields.io/badge/HackerRank-SQL%20Certificate-2EC866?style=for-the-badge&logo=hackerrank"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marripravallika&layout=compact&theme=tokyonight&hide_border=true"/>
+<br><br>
+
+<b>SQL For Data Analysis</b>
+
+<br>
+
+<sub>HackerRank | 2026</sub>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/✔%20Certified-8b5cf6?style=flat-square"/>
+
+</td>
+
+
+</tr>
+
+</table>
+
 
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=marripravallika&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 ---
 
-# GitHub Trophies
+<!-- LEARNING -->
+
+
+# 🌱 Currently Learning
+
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=marripravallika&theme=algolia&margin-w=15&no-frame=true&row=2&column=4"/>
+
+| Skill | Progress | Status |
+|:---|:---|:---:|
+| Advanced SQL | ████████░░ 80% | 🟢 Active |
+| Python Development | ████████░░ 80% | 🟢 Active |
+| Power BI Analytics | ███████░░░ 70% | 🟡 Improving |
+| Backend Development | ██████░░░░ 60% | 🟡 Learning |
+| Cloud Fundamentals | █████░░░░░ 50% | 🔵 Exploring |
+
 
 </div>
 
+
+---
 ---
 
-# Contribution Activity
+<!-- GITHUB ANALYTICS -->
+
+# 📊 GitHub Analytics
+
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=marripravallika&theme=tokyo-night&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=marripravallika&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=8B5CF6&text_color=c9d1d9&rank_icon=github"/>
+
+
+&nbsp;
+
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marripravallika&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=c9d1d9&langs_count=8"/>
+
+
+<br><br>
+
+
+<img width="70%" src="https://streak-stats.demolab.com?user=marripravallika&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=8B5CF6&currStreakLabel=A855F7"/>
+
 
 </div>
 
+
 ---
 
-# Contribution Snake
+<!-- GITHUB TROPHIES -->
+
+
+# 🏆 GitHub Trophies
+
 
 <div align="center">
+
+
+<img src="https://github-profile-trophy.vercel.app/?username=marripravallika&theme=algolia&no-frame=true&margin-w=15&row=2&column=4"/>
+
+
+</div>
+
+
+---
+
+<!-- CONTRIBUTION GRAPH -->
+
+
+# 📈 Contribution Activity
+
+
+<div align="center">
+
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=marripravallika&bg_color=0D1117&color=A855F7&line=8B5CF6&point=FFFFFF&area=true&hide_border=true&custom_title=Pravallika's%20Contribution%20Graph"/>
+
+
+</div>
+
+
+---
+
+<!-- CONTRIBUTION SNAKE -->
+
+
+# 🐍 Contribution Snake
+
+
+<div align="center">
+
 
 <img src="https://raw.githubusercontent.com/marripravallika/marripravallika/output/github-contribution-grid-snake-dark.svg"/>
 
+
 </div>
+
 
 ---
 
-# Connect
+<!-- CURRENT FOCUS -->
 
-<div align="center">
 
-<a href="mailto:pravalikamarri1711@gmail.com">
+# 🎯 Current Focus
 
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail"/>
 
-</a>
+```yaml
+Learning:
+  - Advanced SQL Queries
+  - Data Analytics
+  - Backend Development
+  - Cloud Fundamentals
+  - AI & Generative AI Concepts
 
-<a href="https://www.linkedin.com/in/marripravallika">
 
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+Building:
+  - SQL Based Analytics Projects
+  - Power BI Dashboards
+  - Data Driven Applications
+  - Software Engineering Portfolio
 
-</a>
 
-<a href="https://github.com/marripravallika">
+Exploring:
+  - Artificial Intelligence
+  - Machine Learning Fundamentals
+  - Full Stack Development
+  - Product Engineering Practices
 
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
 
-</a>
+Open To:
+  - Software Engineering Internships
+  - Data Analyst Internships
+  - Business Analyst Opportunities
+  - AI/Data Analytics Projects
+  - Open Source Contributions
 
-<a href="#">
 
-<img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-6D28D9?style=for-the-badge"/>
 
-</a>
 
-</div>
 
----
 
-<div align="center">
 
-### *Thank you.*
 
-</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:4F46E5,25:6D28D9,50:7C3AED,75:8B5CF6,100:A855F7"/>
 
-```
+
+
+
+
+
+
