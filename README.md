@@ -73,10 +73,10 @@ location    : Hyderabad, India 🇮🇳
 
 
 focus       :
-  - Software Engineering
   - Data Analytics
   - Database Systems
-  - AI & Emerging Technologies
+  - AI
+  - Frontend development
 
 
 technical_skills:
@@ -108,12 +108,11 @@ current_status:
   - Building analytics-driven applications
   - Open for internships
 
-
-quote:
-  "Turning data into insights and ideas into solutions."
+```
 ---
 
 <!-- DIVIDER -->
+
 
 <div align="center">
 
@@ -367,14 +366,12 @@ Interactive business intelligence dashboard developed to monitor sales performan
 | Advanced SQL | ████████░░ 80% | 🟢 Active |
 | Python Development | ████████░░ 80% | 🟢 Active |
 | Power BI Analytics | ███████░░░ 70% | 🟡 Improving |
-| Backend Development | ██████░░░░ 60% | 🟡 Learning |
-| Cloud Fundamentals | █████░░░░░ 50% | 🔵 Exploring |
+| Frontend Development | ██████░░░░ 60% | 🟡 Learning |
+
 
 
 </div>
 
-
----
 ---
 
 <!-- GITHUB ANALYTICS -->
@@ -466,8 +463,7 @@ Interactive business intelligence dashboard developed to monitor sales performan
 Learning:
   - Advanced SQL Queries
   - Data Analytics
-  - Backend Development
-  - Cloud Fundamentals
+  - Frontend Development
   - AI & Generative AI Concepts
 
 
@@ -475,23 +471,65 @@ Building:
   - SQL Based Analytics Projects
   - Power BI Dashboards
   - Data Driven Applications
-  - Software Engineering Portfolio
+  
 
 
 Exploring:
   - Artificial Intelligence
   - Machine Learning Fundamentals
   - Full Stack Development
-  - Product Engineering Practices
+  
 
 
 Open To:
-  - Software Engineering Internships
-  - Data Analyst Internships
+  - Data Analyst roles & Internships
   - Business Analyst Opportunities
   - AI/Data Analytics Projects
   - Open Source Contributions
+```
+---
 
+# 🤝 Connect With Me
+
+
+<div align="center">
+
+
+<a href="mailto:pravalikamarri1711@gmail.com">
+
+<img src="https://img.shields.io/badge/Gmail-Mail%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+</a>
+
+
+<a href="https://www.linkedin.com/in/marripravallika">
+
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+</a>
+
+
+<a href="https://github.com/marripravallika">
+
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+
+</div>
+
+
+---
+
+<div align="center">
+
+### ✨ "Building technology solutions through curiosity, analytics, and continuous learning."
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,16,24,30&height=150&section=footer&fontColor=ffffff&animation=twinkling"/>
+
+</div>
 
 
 
