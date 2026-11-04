@@ -49,6 +49,7 @@
 
 ```bash
 $ cat pravallika_profile.yaml
+
 name        : Marri Pravallika
 
 education   :
@@ -61,16 +62,13 @@ location    : Hyderabad, India 🇮🇳
 
 technical_skills:
   languages :
-    - Python
-    - SQL
-    - HTML
+     Python | SQL | HTML
 
   database  :
-    - MySQL
+     MySQL
 
   analytics :
-    - Power BI
-    - MS Excel
+     Power BI|  MS Excel
 
 
 ```
@@ -118,9 +116,7 @@ A database-driven recruitment analytics project designed to analyze applicant da
 - Created analytical outputs for business decisions.
 - Improved data organization through structured reporting.
 
-
 <br>
-
 
 <a href="https://github.com/marripravallika/Applicant-Hiring-Analysis-SQL">
 
@@ -136,12 +132,9 @@ A database-driven recruitment analytics project designed to analyze applicant da
 
 <summary><b>📈 Sales Performance Dashboard | Power BI + SQL + Excel</b></summary>
 
-
 <br>
 
-
 Interactive business intelligence dashboard developed to monitor sales performance, revenue trends, profitability, and regional analysis.
-
 
 | Category | Details |
 |:---|:---|
@@ -163,9 +156,7 @@ Interactive business intelligence dashboard developed to monitor sales performan
 - Developed reports for product and regional performance.
 - Generated actionable business insights.
 
-
 <br>
-
 
 <a href="https://github.com/marripravallika/Sales-Performance-Dashboard">
 
@@ -173,32 +164,23 @@ Interactive business intelligence dashboard developed to monitor sales performan
 
 </a>
 
-
 </details>
 
-
 </div>
-
-
 ---
 
 <!-- EXPERIENCE -->
 
-
 # 💼 Experience & Professional Development
 
-
 <div align="center">
-
 
 | Role | Organization | Duration |
 |:---|:---|:---|
 | Data Analytics Job Simulation Participant | Tata iQ | Jan 2026 – Feb 2026 |
 | Computer Science Undergraduate | Parul University | 2024 – Present |
 
-
 </div>
-
 
 ### 📌 Tata GenAI Powered Data Analytics Job Simulation
 
@@ -209,7 +191,6 @@ Interactive business intelligence dashboard developed to monitor sales performan
 - Applied data-driven approaches to solve business problems.
 - Developed understanding of AI-assisted analytics workflows.
 
-
 ### 📌 Academic Development
 
 **Bachelor of Technology — Computer Science Engineering**
@@ -217,18 +198,13 @@ Interactive business intelligence dashboard developed to monitor sales performan
 - Studying core computer science concepts.
 - Developing skills in programming, databases, analytics, and software development.
 - Building technology projects focused on real-world applications.
-
-
 ---
 
 <!-- ACHIEVEMENTS -->
 
-
 # 🏆 Achievements
 
-
 <div align="center">
-
 
 | Recognition | Details |
 |:---|:---|
@@ -238,25 +214,18 @@ Interactive business intelligence dashboard developed to monitor sales performan
 | Technical Growth | Continuously improving software engineering and analytical skills |
 | Problem Solving | Applied programming concepts to build practical solutions |
 
-
 </div>
-
-
 ---
 
 <!-- CERTIFICATIONS -->
 
-
 # 📜 Certifications
 
-
 <div align="center">
-
 
 <table>
 
 <tr>
-
 
 <td align="center">
 
@@ -276,8 +245,6 @@ Interactive business intelligence dashboard developed to monitor sales performan
 
 </td>
 
-
-
 <td align="center">
 
 <img src="https://img.shields.io/badge/HackerRank-SQL%20Certificate-2EC866?style=for-the-badge&logo=hackerrank"/>
@@ -296,41 +263,12 @@ Interactive business intelligence dashboard developed to monitor sales performan
 
 </td>
 
-
 </tr>
 
 </table>
 
 </div>
 
----
-
-# 🤝 Connect With Me
-
-
-<div align="center">
-
-
-<a href="mailto:pravalikamarri1711@gmail.com">
-
-<img src="https://img.shields.io/badge/Gmail-Mail%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-
-</a>
-
-
-<a href="https://www.linkedin.com/in/marripravallika">
-
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
-</a>
-
-<a href="https://github.com/marripravallika">
-
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-</a>
-
-</div>
 ---
 
 <div align="center">
