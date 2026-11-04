@@ -5,18 +5,7 @@
 
 </div>
 
-
-<!-- ANIMATED TYPING -->
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=2500&pause=600&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=100&lines=%E2%9A%A1+B.Tech+CSE+Student+%7C+Parul+University;%F0%9F%90%8D+SQL+%7C+Python+%7C+Power+BI+%7C+MySQL;%F0%9F%A4%96+Exploring+AI%2C+Analytics"/>
-
-</div>
-
-
 <br/>
-
 
 <!-- SOCIAL BADGES -->
 
@@ -39,7 +28,6 @@
 <img src="https://img.shields.io/github/followers/marripravallika?style=for-the-badge&color=8b5cf6&logo=github&label=FOLLOWERS"/>
 
 </div>
-
 
 ---
 
@@ -313,30 +301,6 @@ Interactive business intelligence dashboard developed to monitor sales performan
 
 </table>
 
-
-</div>
-
-
----
-
-<!-- LEARNING -->
-
-
-# 🌱 Currently Learning
-
-
-<div align="center">
-
-
-| Skill | Progress | Status |
-|:---|:---|:---:|
-| Advanced SQL | ████████░░ 80% | 🟢 Active |
-| Python Development | ████████░░ 80% | 🟢 Active |
-| Power BI Analytics | ███████░░░ 70% | 🟡 Improving |
-| Frontend Development | ██████░░░░ 60% | 🟡 Learning |
-
-
-
 </div>
 
 ---
@@ -345,7 +309,6 @@ Interactive business intelligence dashboard developed to monitor sales performan
 
 
 # 🎯 Current Focus
-
 
 ```yaml
 
@@ -381,17 +344,13 @@ Open To:
 
 </a>
 
-
 <a href="https://github.com/marripravallika">
 
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
 </a>
 
-
 </div>
-
-
 ---
 
 <div align="center">
@@ -403,18 +362,3 @@ Open To:
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,16,24,30&height=150&section=footer&fontColor=ffffff&animation=twinkling"/>
 
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
