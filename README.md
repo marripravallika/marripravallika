@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=2500&pause=600&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=100&lines=%E2%9A%A1+B.Tech+CSE+Student+%7C+Parul+University;%F0%9F%93%8A+Building+Data-Driven+Software+Solutions;%F0%9F%90%8D+SQL+%7C+Python+%7C+Power+BI+%7C+MySQL;%F0%9F%A4%96+Exploring+AI%2C+Analytics+%26+Product+Engineering"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=2500&pause=600&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=100&lines=%E2%9A%A1+B.Tech+CSE+Student+%7C+Parul+University;%F0%9F%90%8D+SQL+%7C+Python+%7C+Power+BI+%7C+MySQL;%F0%9F%A4%96+Exploring+AI%2C+Analytics"/>
 
 </div>
 
@@ -85,21 +85,10 @@ technical_skills:
     - MS Excel
 
 
-projects :
-  - Applicant Hiring Analysis System
-  - Sales Performance Dashboard
-
-
-certifications:
-  - Tata GenAI Powered Data Analytics Simulation
-  - HackerRank SQL For Data Analysis
-
-
 ```
 ---
 
 <!-- DIVIDER -->
-
 
 <div align="center">
 
@@ -110,17 +99,13 @@ certifications:
 
 # 🚀 Featured Projects
 
-
 <div align="center">
-
 
 <details>
 
 <summary><b>📊 Applicant Hiring Analysis System | SQL + MySQL</b></summary>
 
-
 <br>
-
 
 A database-driven recruitment analytics project designed to analyze applicant data, identify hiring trends, and generate meaningful insights using SQL.
 
@@ -155,14 +140,9 @@ A database-driven recruitment analytics project designed to analyze applicant da
 
 </a>
 
-
 </details>
 
-
-
 <br>
-
-
 
 <details>
 
@@ -361,85 +341,6 @@ Interactive business intelligence dashboard developed to monitor sales performan
 
 ---
 
-<!-- GITHUB ANALYTICS -->
-
-# 📊 GitHub Analytics
-
-
-<div align="center">
-
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=marripravallika&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=8B5CF6&text_color=c9d1d9&rank_icon=github"/>
-
-
-&nbsp;
-
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marripravallika&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=c9d1d9&langs_count=8"/>
-
-
-<br><br>
-
-
-<img width="70%" src="https://streak-stats.demolab.com?user=marripravallika&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=8B5CF6&currStreakLabel=A855F7"/>
-
-
-</div>
-
-
----
-
-<!-- GITHUB TROPHIES -->
-
-
-# 🏆 GitHub Trophies
-
-
-<div align="center">
-
-
-<img src="https://github-profile-trophy.vercel.app/?username=marripravallika&theme=algolia&no-frame=true&margin-w=15&row=2&column=4"/>
-
-
-</div>
-
-
----
-
-<!-- CONTRIBUTION GRAPH -->
-
-
-# 📈 Contribution Activity
-
-
-<div align="center">
-
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=marripravallika&bg_color=0D1117&color=A855F7&line=8B5CF6&point=FFFFFF&area=true&hide_border=true&custom_title=Pravallika's%20Contribution%20Graph"/>
-
-
-</div>
-
-
----
-
-<!-- CONTRIBUTION SNAKE -->
-
-
-# 🐍 Contribution Snake
-
-
-<div align="center">
-
-
-<img src="https://raw.githubusercontent.com/marripravallika/marripravallika/output/github-contribution-grid-snake-dark.svg"/>
-
-
-</div>
-
-
----
-
 <!-- CURRENT FOCUS -->
 
 
@@ -447,26 +348,11 @@ Interactive business intelligence dashboard developed to monitor sales performan
 
 
 ```yaml
-Learning:
-  - Advanced SQL Queries
-  - Data Analytics
-  - Frontend Development
-  - AI & Generative AI Concepts
-
-
-Building:
-  - SQL Based Analytics Projects
-  - Power BI Dashboards
-  - Data Driven Applications
-  
-
 
 Exploring:
   - Artificial Intelligence
   - Machine Learning Fundamentals
   - Full Stack Development
-  
-
 
 Open To:
   - Data Analyst roles & Internships
