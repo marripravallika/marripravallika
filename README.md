@@ -71,14 +71,6 @@ education   :
 
 location    : Hyderabad, India 🇮🇳
 
-
-focus       :
-  - Data Analytics
-  - Database Systems
-  - AI
-  - Frontend development
-
-
 technical_skills:
   languages :
     - Python
@@ -102,11 +94,6 @@ certifications:
   - Tata GenAI Powered Data Analytics Simulation
   - HackerRank SQL For Data Analysis
 
-
-current_status:
-  - Learning scalable software development
-  - Building analytics-driven applications
-  - Open for internships
 
 ```
 ---
