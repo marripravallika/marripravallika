@@ -305,26 +305,6 @@ Interactive business intelligence dashboard developed to monitor sales performan
 
 ---
 
-<!-- CURRENT FOCUS -->
-
-
-# 🎯 Current Focus
-
-```yaml
-
-Exploring:
-  - Artificial Intelligence
-  - Machine Learning Fundamentals
-  - Full Stack Development
-
-Open To:
-  - Data Analyst roles & Internships
-  - Business Analyst Opportunities
-  - AI/Data Analytics Projects
-  - Open Source Contributions
-```
----
-
 # 🤝 Connect With Me
 
 
